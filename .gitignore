@@ -1,6 +1,7 @@
 # =====================================
 # Ignorar archivos y carpetas de Eclipse
 # =====================================
+# Ignora cualquier archivo .classpath en cualquier subcarpeta
 **/.classpath
 **/.project
 **/.settings/
@@ -8,6 +9,7 @@
 # ===========================
 # Ignorar archivos compilados
 # ===========================
+# Ignora cualquier carpeta bin en cualquier subdirectorio
 **/bin/
 **/target/
 **/out/
