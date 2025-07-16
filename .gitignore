@@ -1,0 +1,32 @@
+# =====================================
+# Ignorar archivos y carpetas de Eclipse
+# =====================================
+**/.classpath
+**/.project
+**/.settings/
+
+# ===========================
+# Ignorar archivos compilados
+# ===========================
+**/bin/
+**/target/
+**/out/
+**/*.class
+
+# =====================
+# Archivos del sistema
+# =====================
+.DS_Store
+Thumbs.db
+
+# ==================
+# Archivos de log
+# ==================
+**/*.log
+
+# ============================
+# Otros posibles temporales
+# ============================
+*.tmp
+*.swp
+*.bak
