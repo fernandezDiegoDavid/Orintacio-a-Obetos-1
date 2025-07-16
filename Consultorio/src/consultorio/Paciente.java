@@ -51,8 +51,6 @@ public class Paciente {
 	public String traerNombreCompleto() {
 		String resultado;
 
-		resultado ="Paciente"+" "+ nombre + " " + apellido;
-
 		resultado = nombre + " " + apellido;
 
 		return resultado;
